@@ -31,6 +31,7 @@ rodrick
 
 - Seshadri Naidu
 - wtempero
+- Brian Kihara : More open Source
 - [Pranav](https://github.com/Pranav8307): First Open Source Contribution
 - [Mohammad Raees](https://github.com/Mohammad-Raees): This is my firt contribution. Excited to contribute in open source projects.
 - [Hamza Ahmad](https://github.com/HamzaAhmadOfficial)
@@ -2320,6 +2321,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Aneesh Kumar Mourya](https://github.com/AneeshkrMoury)
 - [Vatsalya Sharma](https://github.com/Vatsalya-24)
 - [Ayotunde Pedro](https://github.com/ayopedro)
+- [Roberto Carro](https://github.com/robcg1102)
 - [Rohini Manjappa] (https://github.com/hdsdgqz56g-bit)
 - [Mario Sanchez](https://github.com/mcn22)
 - [Yuval Cohen](https://github.com/yuval-cohen-dev)
@@ -2501,7 +2503,7 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [CoderPillar](https://github.com/Coder-Pillar) : My first contribution
 
 * [Muhammad Fahad](https://github.com/mfk21927) : First contribution
-
+- [Corey Smith](https://github.com/cysmith240): Hopefully the first of many
 - [Shashanth Samala](https://github.com/ShashanthSamala) - first contribution on 4-bit ALU using ardunio
 - [Shrutik Meshram](https://github.com/shrutikcs)
 - [zhangyingjie](https://github.com/fjwyhs) - first contribution
@@ -2536,3 +2538,4 @@ Nick -[Daniel G.](https://github.com/dg189149)
 - [Saish Sawant](https://github.com/SaishSawant21/) : First Open Source Contribution
 - [Tejas Tiwari] (https://github.com/Ontiomacer) : My First Contribution on Github
 - [Rahul Kumar Rai](https://github.com/rahul-kr-rai/): My First contribution on open source.
+
